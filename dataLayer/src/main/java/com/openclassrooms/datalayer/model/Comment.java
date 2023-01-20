@@ -1,7 +1,7 @@
 package com.openclassrooms.datalayer.model;
 
 import jakarta.persistence.*;
-
+//test
 @Entity
 @Table (name = "commentaire")
 public class Comment {
